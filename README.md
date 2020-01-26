@@ -1,0 +1,1 @@
+A ReactJS based Web-App which gets current Bitshares BlockChain status data. No need Private Api Key.
